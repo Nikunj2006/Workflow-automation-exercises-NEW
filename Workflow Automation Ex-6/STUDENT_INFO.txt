@@ -1,0 +1,7 @@
+WORKFLOW AUTOMATION ENGINEERING
+Exercise 6
+
+Student Name: Nikunj Bharadiya
+Registration Number: RA2411056010310
+
+This package contains the files for the corresponding laboratory exercise.
